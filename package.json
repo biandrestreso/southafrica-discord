@@ -19,5 +19,8 @@
   "homepage": "https://github.com/biandrestreso/southafrica-discord#readme",
   "devDependencies": {
     "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "discord.js": "^13.8.0"
   }
 }
